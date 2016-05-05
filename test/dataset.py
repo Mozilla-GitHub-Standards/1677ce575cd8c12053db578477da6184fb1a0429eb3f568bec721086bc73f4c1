@@ -97,6 +97,15 @@ def generate_payload(dimensions):
                     u'values': {u'0': SCALAR_VALUE, u'1': 0}
                 },
             },
+            u"SUBPROCESS_KILL_HARD": {
+                u"ShutDownKill": {
+                    u'bucket_count': 3,
+                    u'histogram_type': 4,
+                    u'range': [1, 2],
+                    u'sum': SCALAR_VALUE,
+                    u'values': {u'0': SCALAR_VALUE, u'1': 0}
+                },
+            },
         },
         u"childPayloads": child_payloads,
         u"info": {

@@ -1,3 +1,8 @@
+The repository is no longer used for the crash rate aggregates
+==============================================================
+The new code can be found [here](https://github.com/mozilla/telemetry-batch-view/blob/master/docs/CrashAggregateView.md)
+
+
 Crash Rate Aggregates
 =====================
 
